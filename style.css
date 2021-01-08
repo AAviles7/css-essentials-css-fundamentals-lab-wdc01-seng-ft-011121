@@ -15,6 +15,10 @@ header{
 #featured-property {
   text-align: center;
   font-size: 15px;
+  width: 900px;
+}
+p:#featured-property{
+  width: 800px;
 }
 div {
   align-content: center;
