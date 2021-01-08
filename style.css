@@ -22,10 +22,10 @@ div {
   text-align: center;
   background-color: red;
   float:left;
+  width: 25%;
 }
 #details{
   align-content: center;
   margin: auto;
   text-align: center;
-  width: 25%;
 }
