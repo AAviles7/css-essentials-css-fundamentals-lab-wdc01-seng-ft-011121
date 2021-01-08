@@ -21,6 +21,6 @@ header{
   background-color: red;
   
 }
-div:#details{
+div.#details{
   float:left;
 }
