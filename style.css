@@ -21,3 +21,6 @@ header{
   background-color: red;
   
 }
+div:#details{
+  float:left;
+}
