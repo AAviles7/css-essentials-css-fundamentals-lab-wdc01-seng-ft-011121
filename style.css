@@ -14,10 +14,10 @@ header{
   text-align: center;
   font-size: 15px;
 }
-#details {
+div:#details {
   align-content: center;
   margin: auto;
   text-align: center;
   background-color: red;
-  
+  float:left;
 }
